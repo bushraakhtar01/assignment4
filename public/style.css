@@ -101,7 +101,6 @@
   }
   
 
-
   @media(max-width:480px){
    
   
@@ -169,6 +168,9 @@
                   } */
                 
                 @media(max-width:700px){
+                  .mainlogo{
+                    width: 20%;
+                  }
                   .h3-responsive{
                       margin: -2px auto -2px auto;
                       font-size: 15px;
@@ -248,7 +250,7 @@
                 }
               
             }
-            
+         
             @media all and (max-width: 1000px) and (orientation: landscape){
             
                 .card{
@@ -261,6 +263,7 @@
                     
                 }
             }
+         
                      /* Gallery */
 
                      .gallerycard{
@@ -452,10 +455,7 @@
                     
                     
                         }
-                        .card-img{
-                    
-                           height: 100%;
-                         }
+                 
                     
                         .li1{
                     

@@ -5,6 +5,9 @@
    height: 150px;
     width: 100%;
 }
+.breadcrumb{
+  padding-left: 2.5% !important;
+}
 
 .about{
   background-color: white;
